@@ -1,14 +1,14 @@
 ---
-title: Say It — Terms of Use
+title: Say It: Manifest it — Terms of Use
 permalink: /terms
 ---
 
-# Say It — Terms of Use
+# Say It: Manifest it — Terms of Use
 
 **Effective date:** 4 November 2026
 
-These Terms of Use ("Terms") are an agreement between you and **Aishwarya Mhetre** ("we", "us") for the Say It app
-(the "App"). By downloading or using the App, you agree to these Terms. If you don't agree, please don't use the App.
+These Terms of Use ("Terms") are an agreement between you and **Aishwarya Mhetre** ("we", "us") for the Say It: Manifest it
+app, shown on your phone as "Say It" (the "App"). By downloading or using the App, you agree to these Terms. If you don't agree, please don't use the App.
 
 Our [Privacy Policy](https://synaptichabit.github.io/say-it-legal/privacy) explains how the App handles information and forms part of these Terms.
 

@@ -1,13 +1,13 @@
 ---
-title: Say It — Privacy Policy
+title: Say It: Manifest it — Privacy Policy
 permalink: /privacy
 ---
 
-# Say It — Privacy Policy
+# Say It: Manifest it — Privacy Policy
 
 **Effective date:** 4 November 2026
 
-Say It is a daily affirmations app. This policy explains what information the app uses, where that information is
+Say It: Manifest it (shown on your phone as "Say It") is a daily affirmations app. This policy explains what information the app uses, where that information is
 kept, and the choices you have.
 
 **The short version:**
